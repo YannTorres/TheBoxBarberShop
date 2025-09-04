@@ -1,0 +1,6 @@
+@TheBoxBarberShop.API_HostAddress = http://localhost:5295
+
+GET {{TheBoxBarberShop.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
